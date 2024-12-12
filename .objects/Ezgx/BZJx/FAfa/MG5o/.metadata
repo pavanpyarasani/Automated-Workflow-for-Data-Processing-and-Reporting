@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Client Information Deta…(1)",
+  "Type": "Element",
+  "Id": "MG5owI4QPEGilKCB5Iv0-w",
+  "Reference": "uTfbUnMNckOPLms0CItaxA/MG5owI4QPEGilKCB5Iv0-w",
+  "ParentRef": "uTfbUnMNckOPLms0CItaxA/FAfaWT0_u0a-WZdx2RGliw",
+  "Created": "2024-12-08T15:41:57.7266368Z",
+  "Updated": "2024-12-08T15:41:57.7266368Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

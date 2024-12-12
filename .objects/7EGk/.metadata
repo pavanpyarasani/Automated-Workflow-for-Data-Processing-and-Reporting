@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome ACME System 1 - Dashboard",
+  "Type": "App",
+  "Id": "7EGklZnyAEOxjS1OyXsG2A",
+  "Reference": "uTfbUnMNckOPLms0CItaxA/7EGklZnyAEOxjS1OyXsG2A",
+  "Created": "2024-12-06T06:28:54.6558998Z",
+  "Updated": "2024-12-06T06:28:54.6558998Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

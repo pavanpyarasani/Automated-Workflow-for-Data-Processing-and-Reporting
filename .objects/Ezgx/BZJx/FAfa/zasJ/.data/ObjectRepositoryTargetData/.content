@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ht_0Gr37VUSLSq0wZArDIA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/104280969" CVScreenId="a4a950c3-35e6-418d-a222-bd9fce7638fc" DesignTimeRectangle="315, 590, 505, 137" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl class='col-lg-5' tag='DIV' type='' aaname='                                                                       ' check:innerText='Client Information Details&amp;#xA;&amp;#xA;Client ID: DR69832&amp;#xA;Client Name: Ewa Alcantar&amp;#xA;Client Country: Germany' /&gt;" Guid="ebb31bd6-ba4c-470a-945e-9725cc8a5b4e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f5f65a053cfba1268a16183dfd37ddfa.png" xmlns="">0QkWV5SR7WE2Hh0VcSqb-jA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
